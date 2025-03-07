@@ -1,4 +1,3 @@
-```markdown
 # Experimental Data Analysis
 
 **Course Description:**
@@ -141,4 +140,3 @@ The course will consist of lectures, hands-on computer labs (R, Python, SQL, Tab
 **Note:**
 
 This outline emphasizes the practical application of R, SQL, and Tableau, and integrates AI assistance to enhance the learning experience.
-```
