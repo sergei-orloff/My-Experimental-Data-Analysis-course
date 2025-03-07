@@ -140,5 +140,5 @@ The course will consist of lectures, hands-on computer labs (R, Python, SQL, Tab
 
 **Note:**
 
-This outline emphasizes the practical application of R, SQL, and Tableau, and integrates AI assistance to enhance the learning experience. The instructor may further customize the course content and tools based on specific needs and advancements in AI technology.
+This outline emphasizes the practical application of R, SQL, and Tableau, and integrates AI assistance to enhance the learning experience.
 ```
