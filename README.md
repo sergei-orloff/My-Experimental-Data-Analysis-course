@@ -133,7 +133,7 @@ The course will consist of lectures, hands-on computer labs (R, Python, SQL, Tab
 * Python (Anaconda distribution recommended).
 * Jupyter Notebooks.
 * Libraries: NumPy, SciPy, Pandas, Matplotlib, Seaborn.
-* SQL database (e.g., SQLite, PostgreSQL, MySQL).
+* SQL database (MySQL).
 * Tableau Desktop/Public.
 * Access to an AI code generation tool.
 
